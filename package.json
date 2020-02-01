@@ -1,7 +1,7 @@
 {
   "name": "einfachiota-headquarter",
   "version": "0.0.1",
-  "description": "Starter project for an ES6 RESTful Express API with JWT auth",
+  "description": "Backend application of the einfachIOTA headquarter",
   "main": "dist",
   "scripts": {
     "dev": "nodemon -w src --exec \"babel-node src\"",
